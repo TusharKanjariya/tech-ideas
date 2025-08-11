@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+
+/* your globals are fine here */
+html,
+body {
+  background: #000;
+  color: #e5e7eb;
+}

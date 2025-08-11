@@ -1,0 +1,2969 @@
+{
+  "date": "2025-08-11",
+  "generatedAt": "2025-08-11T09:17:55.498Z",
+  "ideas": [
+    {
+      "id": "9573cb2877ad6e25a1508ef7caccd635edf7d92e-0",
+      "headline": "Implement Bundle Optimization with a production-grade Next.js/Node stack",
+      "angle": "Inspired by: Bundle Optimization",
+      "outline": [
+        "Hook & why this matters",
+        "Tiny demo or repro",
+        "Production caveats & perf notes",
+        "DX: debugging and failure paths",
+        "Security & auth implications",
+        "SEO/Edge considerations (if web)",
+        "Alternatives & trade-offs",
+        "Takeaways & when NOT to use it"
+      ],
+      "stackHints": [
+        "Next.js API routes",
+        "Server Actions/RSC",
+        "Node fetch + ETag cache",
+        "Python helper for data prep"
+      ],
+      "seedUrl": "https://dev.to/juun_roh/bundle-optimization-i4a",
+      "score": 50.7,
+      "source": "devto",
+      "publishedAt": "2025-08-11T06:47:04.000Z",
+      "tags": [
+        "nextjs",
+        "productivity",
+        "webdev",
+        "performance",
+        "nextjs",
+        "react",
+        "node",
+        "ai",
+        "perf",
+        "realtime",
+        "tooling"
+      ],
+      "points": {
+        "base": 1,
+        "keywords": {
+          "score": 9,
+          "hits": [
+            [
+              "next.js",
+              5
+            ],
+            [
+              "react",
+              4
+            ]
+          ]
+        },
+        "tags": {
+          "score": 29,
+          "hits": [
+            [
+              "nextjs",
+              5
+            ],
+            [
+              "nextjs",
+              5
+            ],
+            [
+              "react",
+              4
+            ],
+            [
+              "node",
+              4
+            ],
+            [
+              "ai",
+              3
+            ],
+            [
+              "perf",
+              3
+            ],
+            [
+              "realtime",
+              2
+            ],
+            [
+              "tooling",
+              3
+            ]
+          ]
+        },
+        "engagement": {
+          "score": 0,
+          "raw": 0
+        },
+        "sourceWeight": 1,
+        "recencyMultiplier": 1.3
+      }
+    },
+    {
+      "id": "9573cb2877ad6e25a1508ef7caccd635edf7d92e-1",
+      "headline": "Does Bundle Optimization really improve developer experience? A measured take",
+      "angle": "Inspired by: Bundle Optimization",
+      "outline": [
+        "Hook & why this matters",
+        "Tiny demo or repro",
+        "Production caveats & perf notes",
+        "DX: debugging and failure paths",
+        "Security & auth implications",
+        "SEO/Edge considerations (if web)",
+        "Alternatives & trade-offs",
+        "Takeaways & when NOT to use it"
+      ],
+      "stackHints": [
+        "Next.js API routes",
+        "Server Actions/RSC",
+        "Node fetch + ETag cache",
+        "Python helper for data prep"
+      ],
+      "seedUrl": "https://dev.to/juun_roh/bundle-optimization-i4a",
+      "score": 50.7,
+      "source": "devto",
+      "publishedAt": "2025-08-11T06:47:04.000Z",
+      "tags": [
+        "nextjs",
+        "productivity",
+        "webdev",
+        "performance",
+        "nextjs",
+        "react",
+        "node",
+        "ai",
+        "perf",
+        "realtime",
+        "tooling"
+      ],
+      "points": {
+        "base": 1,
+        "keywords": {
+          "score": 9,
+          "hits": [
+            [
+              "next.js",
+              5
+            ],
+            [
+              "react",
+              4
+            ]
+          ]
+        },
+        "tags": {
+          "score": 29,
+          "hits": [
+            [
+              "nextjs",
+              5
+            ],
+            [
+              "nextjs",
+              5
+            ],
+            [
+              "react",
+              4
+            ],
+            [
+              "node",
+              4
+            ],
+            [
+              "ai",
+              3
+            ],
+            [
+              "perf",
+              3
+            ],
+            [
+              "realtime",
+              2
+            ],
+            [
+              "tooling",
+              3
+            ]
+          ]
+        },
+        "engagement": {
+          "score": 0,
+          "raw": 0
+        },
+        "sourceWeight": 1,
+        "recencyMultiplier": 1.3
+      }
+    },
+    {
+      "id": "9573cb2877ad6e25a1508ef7caccd635edf7d92e-2",
+      "headline": "Recreate Bundle Optimization step-by-step (Node.js + Next.js + Python helper)",
+      "angle": "Inspired by: Bundle Optimization",
+      "outline": [
+        "Hook & why this matters",
+        "Tiny demo or repro",
+        "Production caveats & perf notes",
+        "DX: debugging and failure paths",
+        "Security & auth implications",
+        "SEO/Edge considerations (if web)",
+        "Alternatives & trade-offs",
+        "Takeaways & when NOT to use it"
+      ],
+      "stackHints": [
+        "Next.js API routes",
+        "Server Actions/RSC",
+        "Node fetch + ETag cache",
+        "Python helper for data prep"
+      ],
+      "seedUrl": "https://dev.to/juun_roh/bundle-optimization-i4a",
+      "score": 50.7,
+      "source": "devto",
+      "publishedAt": "2025-08-11T06:47:04.000Z",
+      "tags": [
+        "nextjs",
+        "productivity",
+        "webdev",
+        "performance",
+        "nextjs",
+        "react",
+        "node",
+        "ai",
+        "perf",
+        "realtime",
+        "tooling"
+      ],
+      "points": {
+        "base": 1,
+        "keywords": {
+          "score": 9,
+          "hits": [
+            [
+              "next.js",
+              5
+            ],
+            [
+              "react",
+              4
+            ]
+          ]
+        },
+        "tags": {
+          "score": 29,
+          "hits": [
+            [
+              "nextjs",
+              5
+            ],
+            [
+              "nextjs",
+              5
+            ],
+            [
+              "react",
+              4
+            ],
+            [
+              "node",
+              4
+            ],
+            [
+              "ai",
+              3
+            ],
+            [
+              "perf",
+              3
+            ],
+            [
+              "realtime",
+              2
+            ],
+            [
+              "tooling",
+              3
+            ]
+          ]
+        },
+        "engagement": {
+          "score": 0,
+          "raw": 0
+        },
+        "sourceWeight": 1,
+        "recencyMultiplier": 1.3
+      }
+    },
+    {
+      "id": "073f6296a37218bdd5cc6290ca5a175931e476cb-0",
+      "headline": "Implement Stay ahead in web development: latest news, tools, and insights #97 with a production-grade Next.js/Node stack",
+      "angle": "Inspired by: Stay ahead in web development: latest news, tools, and insights #97",
+      "outline": [
+        "Hook & why this matters",
+        "Tiny demo or repro",
+        "Production caveats & perf notes",
+        "DX: debugging and failure paths",
+        "Security & auth implications",
+        "SEO/Edge considerations (if web)",
+        "Alternatives & trade-offs",
+        "Takeaways & when NOT to use it"
+      ],
+      "stackHints": [
+        "Next.js API routes",
+        "Server Actions/RSC",
+        "Node fetch + ETag cache",
+        "Python helper for data prep"
+      ],
+      "seedUrl": "https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-97-42l2",
+      "score": 48.1,
+      "source": "devto",
+      "publishedAt": "2025-08-11T05:14:19.000Z",
+      "tags": [
+        "webdev",
+        "weeklyfoo",
+        "javascript",
+        "node",
+        "nextjs",
+        "react",
+        "node",
+        "python",
+        "db",
+        "ai",
+        "perf",
+        "realtime"
+      ],
+      "points": {
+        "base": 1,
+        "keywords": {
+          "score": 4,
+          "hits": [
+            [
+              "python",
+              4
+            ]
+          ]
+        },
+        "tags": {
+          "score": 32,
+          "hits": [
+            [
+              "node",
+              4
+            ],
+            [
+              "nextjs",
+              5
+            ],
+            [
+              "react",
+              4
+            ],
+            [
+              "node",
+              4
+            ],
+            [
+              "python",
+              4
+            ],
+            [
+              "db",
+              3
+            ],
+            [
+              "ai",
+              3
+            ],
+            [
+              "perf",
+              3
+            ],
+            [
+              "realtime",
+              2
+            ]
+          ]
+        },
+        "engagement": {
+          "score": 0,
+          "raw": 0
+        },
+        "sourceWeight": 1,
+        "recencyMultiplier": 1.3
+      }
+    },
+    {
+      "id": "073f6296a37218bdd5cc6290ca5a175931e476cb-1",
+      "headline": "Does Stay ahead in web development: latest news, tools, and insights #97 really improve developer experience? A measured take",
+      "angle": "Inspired by: Stay ahead in web development: latest news, tools, and insights #97",
+      "outline": [
+        "Hook & why this matters",
+        "Tiny demo or repro",
+        "Production caveats & perf notes",
+        "DX: debugging and failure paths",
+        "Security & auth implications",
+        "SEO/Edge considerations (if web)",
+        "Alternatives & trade-offs",
+        "Takeaways & when NOT to use it"
+      ],
+      "stackHints": [
+        "Next.js API routes",
+        "Server Actions/RSC",
+        "Node fetch + ETag cache",
+        "Python helper for data prep"
+      ],
+      "seedUrl": "https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-97-42l2",
+      "score": 48.1,
+      "source": "devto",
+      "publishedAt": "2025-08-11T05:14:19.000Z",
+      "tags": [
+        "webdev",
+        "weeklyfoo",
+        "javascript",
+        "node",
+        "nextjs",
+        "react",
+        "node",
+        "python",
+        "db",
+        "ai",
+        "perf",
+        "realtime"
+      ],
+      "points": {
+        "base": 1,
+        "keywords": {
+          "score": 4,
+          "hits": [
+            [
+              "python",
+              4
+            ]
+          ]
+        },
+        "tags": {
+          "score": 32,
+          "hits": [
+            [
+              "node",
+              4
+            ],
+            [
+              "nextjs",
+              5
+            ],
+            [
+              "react",
+              4
+            ],
+            [
+              "node",
+              4
+            ],
+            [
+              "python",
+              4
+            ],
+            [
+              "db",
+              3
+            ],
+            [
+              "ai",
+              3
+            ],
+            [
+              "perf",
+              3
+            ],
+            [
+              "realtime",
+              2
+            ]
+          ]
+        },
+        "engagement": {
+          "score": 0,
+          "raw": 0
+        },
+        "sourceWeight": 1,
+        "recencyMultiplier": 1.3
+      }
+    },
+    {
+      "id": "073f6296a37218bdd5cc6290ca5a175931e476cb-2",
+      "headline": "Recreate Stay ahead in web development: latest news, tools, and insights #97 step-by-step (Node.js + Next.js + Python helper)",
+      "angle": "Inspired by: Stay ahead in web development: latest news, tools, and insights #97",
+      "outline": [
+        "Hook & why this matters",
+        "Tiny demo or repro",
+        "Production caveats & perf notes",
+        "DX: debugging and failure paths",
+        "Security & auth implications",
+        "SEO/Edge considerations (if web)",
+        "Alternatives & trade-offs",
+        "Takeaways & when NOT to use it"
+      ],
+      "stackHints": [
+        "Next.js API routes",
+        "Server Actions/RSC",
+        "Node fetch + ETag cache",
+        "Python helper for data prep"
+      ],
+      "seedUrl": "https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-97-42l2",
+      "score": 48.1,
+      "source": "devto",
+      "publishedAt": "2025-08-11T05:14:19.000Z",
+      "tags": [
+        "webdev",
+        "weeklyfoo",
+        "javascript",
+        "node",
+        "nextjs",
+        "react",
+        "node",
+        "python",
+        "db",
+        "ai",
+        "perf",
+        "realtime"
+      ],
+      "points": {
+        "base": 1,
+        "keywords": {
+          "score": 4,
+          "hits": [
+            [
+              "python",
+              4
+            ]
+          ]
+        },
+        "tags": {
+          "score": 32,
+          "hits": [
+            [
+              "node",
+              4
+            ],
+            [
+              "nextjs",
+              5
+            ],
+            [
+              "react",
+              4
+            ],
+            [
+              "node",
+              4
+            ],
+            [
+              "python",
+              4
+            ],
+            [
+              "db",
+              3
+            ],
+            [
+              "ai",
+              3
+            ],
+            [
+              "perf",
+              3
+            ],
+            [
+              "realtime",
+              2
+            ]
+          ]
+        },
+        "engagement": {
+          "score": 0,
+          "raw": 0
+        },
+        "sourceWeight": 1,
+        "recencyMultiplier": 1.3
+      }
+    },
+    {
+      "id": "fd1e1db8913eb6f2fbc7065380c1596ca02fd3d0-0",
+      "headline": "Implement Generate a Next.js Sitemap Easily to Boost SEO Rank with a production-grade Next.js/Node stack",
+      "angle": "Inspired by: Generate a Next.js Sitemap Easily to Boost SEO Rank",
+      "outline": [
+        "Hook & why this matters",
+        "Tiny demo or repro",
+        "Production caveats & perf notes",
+        "DX: debugging and failure paths",
+        "Security & auth implications",
+        "SEO/Edge considerations (if web)",
+        "Alternatives & trade-offs",
+        "Takeaways & when NOT to use it"
+      ],
+      "stackHints": [
+        "Next.js API routes",
+        "Server Actions/RSC",
+        "Node fetch + ETag cache",
+        "Python helper for data prep"
+      ],
+      "seedUrl": "https://dev.to/serveravatar/generate-a-nextjs-sitemap-easily-to-boost-seo-rank-5ccg",
+      "score": 44.2,
+      "source": "devto",
+      "publishedAt": "2025-08-11T06:11:32.000Z",
+      "tags": [
+        "nextjs",
+        "sitemap",
+        "seo",
+        "webdev",
+        "nextjs",
+        "ai",
+        "perf",
+        "realtime",
+        "maps",
+        "seo"
+      ],
+      "points": {
+        "base": 1,
+        "keywords": {
+          "score": 9,
+          "hits": [
+            [
+              "next.js",
+              5
+            ],
+            [
+              "maps",
+              2
+            ],
+            [
+              "sitemap",
+              2
+            ]
+          ]
+        },
+        "tags": {
+          "score": 24,
+          "hits": [
+            [
+              "nextjs",
+              5
+            ],
+            [
+              "seo",
+              2
+            ],
+            [
+              "nextjs",
+              5
+            ],
+            [
+              "ai",
+              3
+            ],
+            [
+              "perf",
+              3
+            ],
+            [
+              "realtime",
+              2
+            ],
+            [
+              "maps",
+              2
+            ],
+            [
+              "seo",
+              2
+            ]
+          ]
+        },
+        "engagement": {
+          "score": 0,
+          "raw": 0
+        },
+        "sourceWeight": 1,
+        "recencyMultiplier": 1.3
+      }
+    },
+    {
+      "id": "fd1e1db8913eb6f2fbc7065380c1596ca02fd3d0-1",
+      "headline": "Does Generate a Next.js Sitemap Easily to Boost SEO Rank really improve developer experience? A measured take",
+      "angle": "Inspired by: Generate a Next.js Sitemap Easily to Boost SEO Rank",
+      "outline": [
+        "Hook & why this matters",
+        "Tiny demo or repro",
+        "Production caveats & perf notes",
+        "DX: debugging and failure paths",
+        "Security & auth implications",
+        "SEO/Edge considerations (if web)",
+        "Alternatives & trade-offs",
+        "Takeaways & when NOT to use it"
+      ],
+      "stackHints": [
+        "Next.js API routes",
+        "Server Actions/RSC",
+        "Node fetch + ETag cache",
+        "Python helper for data prep"
+      ],
+      "seedUrl": "https://dev.to/serveravatar/generate-a-nextjs-sitemap-easily-to-boost-seo-rank-5ccg",
+      "score": 44.2,
+      "source": "devto",
+      "publishedAt": "2025-08-11T06:11:32.000Z",
+      "tags": [
+        "nextjs",
+        "sitemap",
+        "seo",
+        "webdev",
+        "nextjs",
+        "ai",
+        "perf",
+        "realtime",
+        "maps",
+        "seo"
+      ],
+      "points": {
+        "base": 1,
+        "keywords": {
+          "score": 9,
+          "hits": [
+            [
+              "next.js",
+              5
+            ],
+            [
+              "maps",
+              2
+            ],
+            [
+              "sitemap",
+              2
+            ]
+          ]
+        },
+        "tags": {
+          "score": 24,
+          "hits": [
+            [
+              "nextjs",
+              5
+            ],
+            [
+              "seo",
+              2
+            ],
+            [
+              "nextjs",
+              5
+            ],
+            [
+              "ai",
+              3
+            ],
+            [
+              "perf",
+              3
+            ],
+            [
+              "realtime",
+              2
+            ],
+            [
+              "maps",
+              2
+            ],
+            [
+              "seo",
+              2
+            ]
+          ]
+        },
+        "engagement": {
+          "score": 0,
+          "raw": 0
+        },
+        "sourceWeight": 1,
+        "recencyMultiplier": 1.3
+      }
+    },
+    {
+      "id": "fd1e1db8913eb6f2fbc7065380c1596ca02fd3d0-2",
+      "headline": "Recreate Generate a Next.js Sitemap Easily to Boost SEO Rank step-by-step (Node.js + Next.js + Python helper)",
+      "angle": "Inspired by: Generate a Next.js Sitemap Easily to Boost SEO Rank",
+      "outline": [
+        "Hook & why this matters",
+        "Tiny demo or repro",
+        "Production caveats & perf notes",
+        "DX: debugging and failure paths",
+        "Security & auth implications",
+        "SEO/Edge considerations (if web)",
+        "Alternatives & trade-offs",
+        "Takeaways & when NOT to use it"
+      ],
+      "stackHints": [
+        "Next.js API routes",
+        "Server Actions/RSC",
+        "Node fetch + ETag cache",
+        "Python helper for data prep"
+      ],
+      "seedUrl": "https://dev.to/serveravatar/generate-a-nextjs-sitemap-easily-to-boost-seo-rank-5ccg",
+      "score": 44.2,
+      "source": "devto",
+      "publishedAt": "2025-08-11T06:11:32.000Z",
+      "tags": [
+        "nextjs",
+        "sitemap",
+        "seo",
+        "webdev",
+        "nextjs",
+        "ai",
+        "perf",
+        "realtime",
+        "maps",
+        "seo"
+      ],
+      "points": {
+        "base": 1,
+        "keywords": {
+          "score": 9,
+          "hits": [
+            [
+              "next.js",
+              5
+            ],
+            [
+              "maps",
+              2
+            ],
+            [
+              "sitemap",
+              2
+            ]
+          ]
+        },
+        "tags": {
+          "score": 24,
+          "hits": [
+            [
+              "nextjs",
+              5
+            ],
+            [
+              "seo",
+              2
+            ],
+            [
+              "nextjs",
+              5
+            ],
+            [
+              "ai",
+              3
+            ],
+            [
+              "perf",
+              3
+            ],
+            [
+              "realtime",
+              2
+            ],
+            [
+              "maps",
+              2
+            ],
+            [
+              "seo",
+              2
+            ]
+          ]
+        },
+        "engagement": {
+          "score": 0,
+          "raw": 0
+        },
+        "sourceWeight": 1,
+        "recencyMultiplier": 1.3
+      }
+    },
+    {
+      "id": "2c1ab7cf839aaec4dbc3047882c891462b83e216-0",
+      "headline": "Implement Develop a Global Matchmaking App with AI-Powered Compatibility: Building Trust for Gen Z with a production-grade Next.js/Node stack",
+      "angle": "Inspired by: Develop a Global Matchmaking App with AI-Powered Compatibility: Building Trust for Gen Z",
+      "outline": [
+        "Hook & why this matters",
+        "Tiny demo or repro",
+        "Production caveats & perf notes",
+        "DX: debugging and failure paths",
+        "Security & auth implications",
+        "SEO/Edge considerations (if web)",
+        "Alternatives & trade-offs",
+        "Takeaways & when NOT to use it"
+      ],
+      "stackHints": [
+        "Next.js API routes",
+        "Server Actions/RSC",
+        "Node fetch + ETag cache",
+        "Python helper for data prep"
+      ],
+      "seedUrl": "https://dev.to/mobile_app_develop/develop-a-global-matchmaking-app-with-ai-powered-compatibility-building-trust-for-gen-z-14m8",
+      "score": 42.9,
+      "source": "devto",
+      "publishedAt": "2025-08-11T04:30:39.000Z",
+      "tags": [
+        "mobile",
+        "blog",
+        "mbileappdevelopment",
+        "react",
+        "react",
+        "node",
+        "python",
+        "db",
+        "ai",
+        "perf",
+        "realtime",
+        "maps"
+      ],
+      "points": {
+        "base": 1,
+        "keywords": {
+          "score": 3,
+          "hits": [
+            [
+              "ai",
+              3
+            ]
+          ]
+        },
+        "tags": {
+          "score": 29,
+          "hits": [
+            [
+              "react",
+              4
+            ],
+            [
+              "react",
+              4
+            ],
+            [
+              "node",
+              4
+            ],
+            [
+              "python",
+              4
+            ],
+            [
+              "db",
+              3
+            ],
+            [
+              "ai",
+              3
+            ],
+            [
+              "perf",
+              3
+            ],
+            [
+              "realtime",
+              2
+            ],
+            [
+              "maps",
+              2
+            ]
+          ]
+        },
+        "engagement": {
+          "score": 0,
+          "raw": 0
+        },
+        "sourceWeight": 1,
+        "recencyMultiplier": 1.3
+      }
+    },
+    {
+      "id": "2c1ab7cf839aaec4dbc3047882c891462b83e216-1",
+      "headline": "Does Develop a Global Matchmaking App with AI-Powered Compatibility: Building Trust for Gen Z really improve developer experience? A measured take",
+      "angle": "Inspired by: Develop a Global Matchmaking App with AI-Powered Compatibility: Building Trust for Gen Z",
+      "outline": [
+        "Hook & why this matters",
+        "Tiny demo or repro",
+        "Production caveats & perf notes",
+        "DX: debugging and failure paths",
+        "Security & auth implications",
+        "SEO/Edge considerations (if web)",
+        "Alternatives & trade-offs",
+        "Takeaways & when NOT to use it"
+      ],
+      "stackHints": [
+        "Next.js API routes",
+        "Server Actions/RSC",
+        "Node fetch + ETag cache",
+        "Python helper for data prep"
+      ],
+      "seedUrl": "https://dev.to/mobile_app_develop/develop-a-global-matchmaking-app-with-ai-powered-compatibility-building-trust-for-gen-z-14m8",
+      "score": 42.9,
+      "source": "devto",
+      "publishedAt": "2025-08-11T04:30:39.000Z",
+      "tags": [
+        "mobile",
+        "blog",
+        "mbileappdevelopment",
+        "react",
+        "react",
+        "node",
+        "python",
+        "db",
+        "ai",
+        "perf",
+        "realtime",
+        "maps"
+      ],
+      "points": {
+        "base": 1,
+        "keywords": {
+          "score": 3,
+          "hits": [
+            [
+              "ai",
+              3
+            ]
+          ]
+        },
+        "tags": {
+          "score": 29,
+          "hits": [
+            [
+              "react",
+              4
+            ],
+            [
+              "react",
+              4
+            ],
+            [
+              "node",
+              4
+            ],
+            [
+              "python",
+              4
+            ],
+            [
+              "db",
+              3
+            ],
+            [
+              "ai",
+              3
+            ],
+            [
+              "perf",
+              3
+            ],
+            [
+              "realtime",
+              2
+            ],
+            [
+              "maps",
+              2
+            ]
+          ]
+        },
+        "engagement": {
+          "score": 0,
+          "raw": 0
+        },
+        "sourceWeight": 1,
+        "recencyMultiplier": 1.3
+      }
+    },
+    {
+      "id": "2c1ab7cf839aaec4dbc3047882c891462b83e216-2",
+      "headline": "Recreate Develop a Global Matchmaking App with AI-Powered Compatibility: Building Trust for Gen Z step-by-step (Node.js + Next.js + Python helper)",
+      "angle": "Inspired by: Develop a Global Matchmaking App with AI-Powered Compatibility: Building Trust for Gen Z",
+      "outline": [
+        "Hook & why this matters",
+        "Tiny demo or repro",
+        "Production caveats & perf notes",
+        "DX: debugging and failure paths",
+        "Security & auth implications",
+        "SEO/Edge considerations (if web)",
+        "Alternatives & trade-offs",
+        "Takeaways & when NOT to use it"
+      ],
+      "stackHints": [
+        "Next.js API routes",
+        "Server Actions/RSC",
+        "Node fetch + ETag cache",
+        "Python helper for data prep"
+      ],
+      "seedUrl": "https://dev.to/mobile_app_develop/develop-a-global-matchmaking-app-with-ai-powered-compatibility-building-trust-for-gen-z-14m8",
+      "score": 42.9,
+      "source": "devto",
+      "publishedAt": "2025-08-11T04:30:39.000Z",
+      "tags": [
+        "mobile",
+        "blog",
+        "mbileappdevelopment",
+        "react",
+        "react",
+        "node",
+        "python",
+        "db",
+        "ai",
+        "perf",
+        "realtime",
+        "maps"
+      ],
+      "points": {
+        "base": 1,
+        "keywords": {
+          "score": 3,
+          "hits": [
+            [
+              "ai",
+              3
+            ]
+          ]
+        },
+        "tags": {
+          "score": 29,
+          "hits": [
+            [
+              "react",
+              4
+            ],
+            [
+              "react",
+              4
+            ],
+            [
+              "node",
+              4
+            ],
+            [
+              "python",
+              4
+            ],
+            [
+              "db",
+              3
+            ],
+            [
+              "ai",
+              3
+            ],
+            [
+              "perf",
+              3
+            ],
+            [
+              "realtime",
+              2
+            ],
+            [
+              "maps",
+              2
+            ]
+          ]
+        },
+        "engagement": {
+          "score": 0,
+          "raw": 0
+        },
+        "sourceWeight": 1,
+        "recencyMultiplier": 1.3
+      }
+    },
+    {
+      "id": "845a665f8d4560634824a125d63ec9159b107198-0",
+      "headline": "Implement Upgrading React 17 18 in large codebase using AI with a production-grade Next.js/Node stack",
+      "angle": "Inspired by: Upgrading React 17 18 in large codebase using AI",
+      "outline": [
+        "Hook & why this matters",
+        "Tiny demo or repro",
+        "Production caveats & perf notes",
+        "DX: debugging and failure paths",
+        "Security & auth implications",
+        "SEO/Edge considerations (if web)",
+        "Alternatives & trade-offs",
+        "Takeaways & when NOT to use it"
+      ],
+      "stackHints": [
+        "Next.js API routes",
+        "Server Actions/RSC",
+        "Node fetch + ETag cache",
+        "Python helper for data prep"
+      ],
+      "seedUrl": "https://dev.to/lkostrowski/upgrading-react-17-18-in-large-codebase-using-ai-506j",
+      "score": 40.300000000000004,
+      "source": "devto",
+      "publishedAt": "2025-08-11T06:24:11.000Z",
+      "tags": [
+        "react",
+        "ai",
+        "refactoring",
+        "frontend",
+        "react",
+        "node",
+        "ai",
+        "perf",
+        "realtime"
+      ],
+      "points": {
+        "base": 1,
+        "keywords": {
+          "score": 7,
+          "hits": [
+            [
+              "react",
+              4
+            ],
+            [
+              "ai",
+              3
+            ]
+          ]
+        },
+        "tags": {
+          "score": 23,
+          "hits": [
+            [
+              "react",
+              4
+            ],
+            [
+              "ai",
+              3
+            ],
+            [
+              "react",
+              4
+            ],
+            [
+              "node",
+              4
+            ],
+            [
+              "ai",
+              3
+            ],
+            [
+              "perf",
+              3
+            ],
+            [
+              "realtime",
+              2
+            ]
+          ]
+        },
+        "engagement": {
+          "score": 0,
+          "raw": 0
+        },
+        "sourceWeight": 1,
+        "recencyMultiplier": 1.3
+      }
+    },
+    {
+      "id": "845a665f8d4560634824a125d63ec9159b107198-1",
+      "headline": "Does Upgrading React 17 18 in large codebase using AI really improve developer experience? A measured take",
+      "angle": "Inspired by: Upgrading React 17 18 in large codebase using AI",
+      "outline": [
+        "Hook & why this matters",
+        "Tiny demo or repro",
+        "Production caveats & perf notes",
+        "DX: debugging and failure paths",
+        "Security & auth implications",
+        "SEO/Edge considerations (if web)",
+        "Alternatives & trade-offs",
+        "Takeaways & when NOT to use it"
+      ],
+      "stackHints": [
+        "Next.js API routes",
+        "Server Actions/RSC",
+        "Node fetch + ETag cache",
+        "Python helper for data prep"
+      ],
+      "seedUrl": "https://dev.to/lkostrowski/upgrading-react-17-18-in-large-codebase-using-ai-506j",
+      "score": 40.300000000000004,
+      "source": "devto",
+      "publishedAt": "2025-08-11T06:24:11.000Z",
+      "tags": [
+        "react",
+        "ai",
+        "refactoring",
+        "frontend",
+        "react",
+        "node",
+        "ai",
+        "perf",
+        "realtime"
+      ],
+      "points": {
+        "base": 1,
+        "keywords": {
+          "score": 7,
+          "hits": [
+            [
+              "react",
+              4
+            ],
+            [
+              "ai",
+              3
+            ]
+          ]
+        },
+        "tags": {
+          "score": 23,
+          "hits": [
+            [
+              "react",
+              4
+            ],
+            [
+              "ai",
+              3
+            ],
+            [
+              "react",
+              4
+            ],
+            [
+              "node",
+              4
+            ],
+            [
+              "ai",
+              3
+            ],
+            [
+              "perf",
+              3
+            ],
+            [
+              "realtime",
+              2
+            ]
+          ]
+        },
+        "engagement": {
+          "score": 0,
+          "raw": 0
+        },
+        "sourceWeight": 1,
+        "recencyMultiplier": 1.3
+      }
+    },
+    {
+      "id": "845a665f8d4560634824a125d63ec9159b107198-2",
+      "headline": "Recreate Upgrading React 17 18 in large codebase using AI step-by-step (Node.js + Next.js + Python helper)",
+      "angle": "Inspired by: Upgrading React 17 18 in large codebase using AI",
+      "outline": [
+        "Hook & why this matters",
+        "Tiny demo or repro",
+        "Production caveats & perf notes",
+        "DX: debugging and failure paths",
+        "Security & auth implications",
+        "SEO/Edge considerations (if web)",
+        "Alternatives & trade-offs",
+        "Takeaways & when NOT to use it"
+      ],
+      "stackHints": [
+        "Next.js API routes",
+        "Server Actions/RSC",
+        "Node fetch + ETag cache",
+        "Python helper for data prep"
+      ],
+      "seedUrl": "https://dev.to/lkostrowski/upgrading-react-17-18-in-large-codebase-using-ai-506j",
+      "score": 40.300000000000004,
+      "source": "devto",
+      "publishedAt": "2025-08-11T06:24:11.000Z",
+      "tags": [
+        "react",
+        "ai",
+        "refactoring",
+        "frontend",
+        "react",
+        "node",
+        "ai",
+        "perf",
+        "realtime"
+      ],
+      "points": {
+        "base": 1,
+        "keywords": {
+          "score": 7,
+          "hits": [
+            [
+              "react",
+              4
+            ],
+            [
+              "ai",
+              3
+            ]
+          ]
+        },
+        "tags": {
+          "score": 23,
+          "hits": [
+            [
+              "react",
+              4
+            ],
+            [
+              "ai",
+              3
+            ],
+            [
+              "react",
+              4
+            ],
+            [
+              "node",
+              4
+            ],
+            [
+              "ai",
+              3
+            ],
+            [
+              "perf",
+              3
+            ],
+            [
+              "realtime",
+              2
+            ]
+          ]
+        },
+        "engagement": {
+          "score": 0,
+          "raw": 0
+        },
+        "sourceWeight": 1,
+        "recencyMultiplier": 1.3
+      }
+    },
+    {
+      "id": "d0dadbf674032cf60666656a98a887dc27fd8d43-0",
+      "headline": "Implement How I Built a Real-Time Chat App with Redis and an AI Assistant with a production-grade Next.js/Node stack",
+      "angle": "Inspired by: How I Built a Real-Time Chat App with Redis and an AI Assistant",
+      "outline": [
+        "Hook & why this matters",
+        "Tiny demo or repro",
+        "Production caveats & perf notes",
+        "DX: debugging and failure paths",
+        "Security & auth implications",
+        "SEO/Edge considerations (if web)",
+        "Alternatives & trade-offs",
+        "Takeaways & when NOT to use it"
+      ],
+      "stackHints": [
+        "Next.js API routes",
+        "Server Actions/RSC",
+        "Node fetch + ETag cache",
+        "Python helper for data prep"
+      ],
+      "seedUrl": "https://dev.to/diassynthesis/how-i-built-a-real-time-chat-app-with-redis-and-an-ai-assistant-4n5k",
+      "score": 40.25,
+      "source": "devto",
+      "publishedAt": "2025-08-10T11:43:10.000Z",
+      "tags": [
+        "redischallenge",
+        "devchallenge",
+        "database",
+        "node",
+        "node",
+        "db",
+        "ai",
+        "testing",
+        "realtime",
+        "maps"
+      ],
+      "points": {
+        "base": 1,
+        "keywords": {
+          "score": 14,
+          "hits": [
+            [
+              "node",
+              4
+            ],
+            [
+              "node.js",
+              4
+            ],
+            [
+              "redis",
+              3
+            ],
+            [
+              "ai",
+              3
+            ]
+          ]
+        },
+        "tags": {
+          "score": 20,
+          "hits": [
+            [
+              "node",
+              4
+            ],
+            [
+              "node",
+              4
+            ],
+            [
+              "db",
+              3
+            ],
+            [
+              "ai",
+              3
+            ],
+            [
+              "testing",
+              2
+            ],
+            [
+              "realtime",
+              2
+            ],
+            [
+              "maps",
+              2
+            ]
+          ]
+        },
+        "engagement": {
+          "score": 0,
+          "raw": 0
+        },
+        "sourceWeight": 1,
+        "recencyMultiplier": 1.15
+      }
+    },
+    {
+      "id": "d0dadbf674032cf60666656a98a887dc27fd8d43-1",
+      "headline": "Does How I Built a Real-Time Chat App with Redis and an AI Assistant really improve developer experience? A measured take",
+      "angle": "Inspired by: How I Built a Real-Time Chat App with Redis and an AI Assistant",
+      "outline": [
+        "Hook & why this matters",
+        "Tiny demo or repro",
+        "Production caveats & perf notes",
+        "DX: debugging and failure paths",
+        "Security & auth implications",
+        "SEO/Edge considerations (if web)",
+        "Alternatives & trade-offs",
+        "Takeaways & when NOT to use it"
+      ],
+      "stackHints": [
+        "Next.js API routes",
+        "Server Actions/RSC",
+        "Node fetch + ETag cache",
+        "Python helper for data prep"
+      ],
+      "seedUrl": "https://dev.to/diassynthesis/how-i-built-a-real-time-chat-app-with-redis-and-an-ai-assistant-4n5k",
+      "score": 40.25,
+      "source": "devto",
+      "publishedAt": "2025-08-10T11:43:10.000Z",
+      "tags": [
+        "redischallenge",
+        "devchallenge",
+        "database",
+        "node",
+        "node",
+        "db",
+        "ai",
+        "testing",
+        "realtime",
+        "maps"
+      ],
+      "points": {
+        "base": 1,
+        "keywords": {
+          "score": 14,
+          "hits": [
+            [
+              "node",
+              4
+            ],
+            [
+              "node.js",
+              4
+            ],
+            [
+              "redis",
+              3
+            ],
+            [
+              "ai",
+              3
+            ]
+          ]
+        },
+        "tags": {
+          "score": 20,
+          "hits": [
+            [
+              "node",
+              4
+            ],
+            [
+              "node",
+              4
+            ],
+            [
+              "db",
+              3
+            ],
+            [
+              "ai",
+              3
+            ],
+            [
+              "testing",
+              2
+            ],
+            [
+              "realtime",
+              2
+            ],
+            [
+              "maps",
+              2
+            ]
+          ]
+        },
+        "engagement": {
+          "score": 0,
+          "raw": 0
+        },
+        "sourceWeight": 1,
+        "recencyMultiplier": 1.15
+      }
+    },
+    {
+      "id": "d0dadbf674032cf60666656a98a887dc27fd8d43-2",
+      "headline": "Recreate How I Built a Real-Time Chat App with Redis and an AI Assistant step-by-step (Node.js + Next.js + Python helper)",
+      "angle": "Inspired by: How I Built a Real-Time Chat App with Redis and an AI Assistant",
+      "outline": [
+        "Hook & why this matters",
+        "Tiny demo or repro",
+        "Production caveats & perf notes",
+        "DX: debugging and failure paths",
+        "Security & auth implications",
+        "SEO/Edge considerations (if web)",
+        "Alternatives & trade-offs",
+        "Takeaways & when NOT to use it"
+      ],
+      "stackHints": [
+        "Next.js API routes",
+        "Server Actions/RSC",
+        "Node fetch + ETag cache",
+        "Python helper for data prep"
+      ],
+      "seedUrl": "https://dev.to/diassynthesis/how-i-built-a-real-time-chat-app-with-redis-and-an-ai-assistant-4n5k",
+      "score": 40.25,
+      "source": "devto",
+      "publishedAt": "2025-08-10T11:43:10.000Z",
+      "tags": [
+        "redischallenge",
+        "devchallenge",
+        "database",
+        "node",
+        "node",
+        "db",
+        "ai",
+        "testing",
+        "realtime",
+        "maps"
+      ],
+      "points": {
+        "base": 1,
+        "keywords": {
+          "score": 14,
+          "hits": [
+            [
+              "node",
+              4
+            ],
+            [
+              "node.js",
+              4
+            ],
+            [
+              "redis",
+              3
+            ],
+            [
+              "ai",
+              3
+            ]
+          ]
+        },
+        "tags": {
+          "score": 20,
+          "hits": [
+            [
+              "node",
+              4
+            ],
+            [
+              "node",
+              4
+            ],
+            [
+              "db",
+              3
+            ],
+            [
+              "ai",
+              3
+            ],
+            [
+              "testing",
+              2
+            ],
+            [
+              "realtime",
+              2
+            ],
+            [
+              "maps",
+              2
+            ]
+          ]
+        },
+        "engagement": {
+          "score": 0,
+          "raw": 0
+        },
+        "sourceWeight": 1,
+        "recencyMultiplier": 1.15
+      }
+    },
+    {
+      "id": "d585e14c6384bb109630f38fcff47622e0755073-0",
+      "headline": "Implement SAML SSO Identity Provider in Node.js: The Complete Guide (Part 1) with a production-grade Next.js/Node stack",
+      "angle": "Inspired by: SAML SSO Identity Provider in Node.js: The Complete Guide (Part 1)",
+      "outline": [
+        "Hook & why this matters",
+        "Tiny demo or repro",
+        "Production caveats & perf notes",
+        "DX: debugging and failure paths",
+        "Security & auth implications",
+        "SEO/Edge considerations (if web)",
+        "Alternatives & trade-offs",
+        "Takeaways & when NOT to use it"
+      ],
+      "stackHints": [
+        "Next.js API routes",
+        "Server Actions/RSC",
+        "Node fetch + ETag cache",
+        "Python helper for data prep"
+      ],
+      "seedUrl": "https://dev.to/smali_kazmi/saml-sso-identity-provider-in-nodejs-the-complete-guide-part-1-47k8",
+      "score": 38.85,
+      "source": "devto",
+      "publishedAt": "2025-08-09T12:25:30.000Z",
+      "tags": [
+        "javascript",
+        "sso",
+        "saml2",
+        "node",
+        "nextjs",
+        "node",
+        "db",
+        "auth",
+        "ai",
+        "perf",
+        "testing",
+        "realtime"
+      ],
+      "points": {
+        "base": 1,
+        "keywords": {
+          "score": 8,
+          "hits": [
+            [
+              "node",
+              4
+            ],
+            [
+              "node.js",
+              4
+            ]
+          ]
+        },
+        "tags": {
+          "score": 28,
+          "hits": [
+            [
+              "node",
+              4
+            ],
+            [
+              "nextjs",
+              5
+            ],
+            [
+              "node",
+              4
+            ],
+            [
+              "db",
+              3
+            ],
+            [
+              "auth",
+              2
+            ],
+            [
+              "ai",
+              3
+            ],
+            [
+              "perf",
+              3
+            ],
+            [
+              "testing",
+              2
+            ],
+            [
+              "realtime",
+              2
+            ]
+          ]
+        },
+        "engagement": {
+          "score": 0,
+          "raw": 0
+        },
+        "sourceWeight": 1,
+        "recencyMultiplier": 1.05
+      }
+    },
+    {
+      "id": "d585e14c6384bb109630f38fcff47622e0755073-1",
+      "headline": "Does SAML SSO Identity Provider in Node.js: The Complete Guide (Part 1) really improve developer experience? A measured take",
+      "angle": "Inspired by: SAML SSO Identity Provider in Node.js: The Complete Guide (Part 1)",
+      "outline": [
+        "Hook & why this matters",
+        "Tiny demo or repro",
+        "Production caveats & perf notes",
+        "DX: debugging and failure paths",
+        "Security & auth implications",
+        "SEO/Edge considerations (if web)",
+        "Alternatives & trade-offs",
+        "Takeaways & when NOT to use it"
+      ],
+      "stackHints": [
+        "Next.js API routes",
+        "Server Actions/RSC",
+        "Node fetch + ETag cache",
+        "Python helper for data prep"
+      ],
+      "seedUrl": "https://dev.to/smali_kazmi/saml-sso-identity-provider-in-nodejs-the-complete-guide-part-1-47k8",
+      "score": 38.85,
+      "source": "devto",
+      "publishedAt": "2025-08-09T12:25:30.000Z",
+      "tags": [
+        "javascript",
+        "sso",
+        "saml2",
+        "node",
+        "nextjs",
+        "node",
+        "db",
+        "auth",
+        "ai",
+        "perf",
+        "testing",
+        "realtime"
+      ],
+      "points": {
+        "base": 1,
+        "keywords": {
+          "score": 8,
+          "hits": [
+            [
+              "node",
+              4
+            ],
+            [
+              "node.js",
+              4
+            ]
+          ]
+        },
+        "tags": {
+          "score": 28,
+          "hits": [
+            [
+              "node",
+              4
+            ],
+            [
+              "nextjs",
+              5
+            ],
+            [
+              "node",
+              4
+            ],
+            [
+              "db",
+              3
+            ],
+            [
+              "auth",
+              2
+            ],
+            [
+              "ai",
+              3
+            ],
+            [
+              "perf",
+              3
+            ],
+            [
+              "testing",
+              2
+            ],
+            [
+              "realtime",
+              2
+            ]
+          ]
+        },
+        "engagement": {
+          "score": 0,
+          "raw": 0
+        },
+        "sourceWeight": 1,
+        "recencyMultiplier": 1.05
+      }
+    },
+    {
+      "id": "d585e14c6384bb109630f38fcff47622e0755073-2",
+      "headline": "Recreate SAML SSO Identity Provider in Node.js: The Complete Guide (Part 1) step-by-step (Node.js + Next.js + Python helper)",
+      "angle": "Inspired by: SAML SSO Identity Provider in Node.js: The Complete Guide (Part 1)",
+      "outline": [
+        "Hook & why this matters",
+        "Tiny demo or repro",
+        "Production caveats & perf notes",
+        "DX: debugging and failure paths",
+        "Security & auth implications",
+        "SEO/Edge considerations (if web)",
+        "Alternatives & trade-offs",
+        "Takeaways & when NOT to use it"
+      ],
+      "stackHints": [
+        "Next.js API routes",
+        "Server Actions/RSC",
+        "Node fetch + ETag cache",
+        "Python helper for data prep"
+      ],
+      "seedUrl": "https://dev.to/smali_kazmi/saml-sso-identity-provider-in-nodejs-the-complete-guide-part-1-47k8",
+      "score": 38.85,
+      "source": "devto",
+      "publishedAt": "2025-08-09T12:25:30.000Z",
+      "tags": [
+        "javascript",
+        "sso",
+        "saml2",
+        "node",
+        "nextjs",
+        "node",
+        "db",
+        "auth",
+        "ai",
+        "perf",
+        "testing",
+        "realtime"
+      ],
+      "points": {
+        "base": 1,
+        "keywords": {
+          "score": 8,
+          "hits": [
+            [
+              "node",
+              4
+            ],
+            [
+              "node.js",
+              4
+            ]
+          ]
+        },
+        "tags": {
+          "score": 28,
+          "hits": [
+            [
+              "node",
+              4
+            ],
+            [
+              "nextjs",
+              5
+            ],
+            [
+              "node",
+              4
+            ],
+            [
+              "db",
+              3
+            ],
+            [
+              "auth",
+              2
+            ],
+            [
+              "ai",
+              3
+            ],
+            [
+              "perf",
+              3
+            ],
+            [
+              "testing",
+              2
+            ],
+            [
+              "realtime",
+              2
+            ]
+          ]
+        },
+        "engagement": {
+          "score": 0,
+          "raw": 0
+        },
+        "sourceWeight": 1,
+        "recencyMultiplier": 1.05
+      }
+    },
+    {
+      "id": "b8a75669f57b5f0fb0b567e057a915e354858aac-0",
+      "headline": "Implement EPUB Optimizer with a production-grade Next.js/Node stack",
+      "angle": "Inspired by: EPUB Optimizer",
+      "outline": [
+        "Hook & why this matters",
+        "Tiny demo or repro",
+        "Production caveats & perf notes",
+        "DX: debugging and failure paths",
+        "Security & auth implications",
+        "SEO/Edge considerations (if web)",
+        "Alternatives & trade-offs",
+        "Takeaways & when NOT to use it"
+      ],
+      "stackHints": [
+        "Next.js API routes",
+        "Server Actions/RSC",
+        "Node fetch + ETag cache",
+        "Python helper for data prep"
+      ],
+      "seedUrl": "https://dev.to/boopykiki/epub-optimizer-1ek3",
+      "score": 38.85,
+      "source": "devto",
+      "publishedAt": "2025-08-09T07:03:22.000Z",
+      "tags": [
+        "programming",
+        "node",
+        "javascript",
+        "typescript",
+        "node",
+        "ai",
+        "perf",
+        "testing",
+        "infra",
+        "realtime",
+        "maps",
+        "tooling"
+      ],
+      "points": {
+        "base": 1,
+        "keywords": {
+          "score": 11,
+          "hits": [
+            [
+              "node",
+              4
+            ],
+            [
+              "node.js",
+              4
+            ],
+            [
+              "ai",
+              3
+            ]
+          ]
+        },
+        "tags": {
+          "score": 25,
+          "hits": [
+            [
+              "node",
+              4
+            ],
+            [
+              "node",
+              4
+            ],
+            [
+              "ai",
+              3
+            ],
+            [
+              "perf",
+              3
+            ],
+            [
+              "testing",
+              2
+            ],
+            [
+              "infra",
+              2
+            ],
+            [
+              "realtime",
+              2
+            ],
+            [
+              "maps",
+              2
+            ],
+            [
+              "tooling",
+              3
+            ]
+          ]
+        },
+        "engagement": {
+          "score": 0,
+          "raw": 0
+        },
+        "sourceWeight": 1,
+        "recencyMultiplier": 1.05
+      }
+    },
+    {
+      "id": "b8a75669f57b5f0fb0b567e057a915e354858aac-1",
+      "headline": "Does EPUB Optimizer really improve developer experience? A measured take",
+      "angle": "Inspired by: EPUB Optimizer",
+      "outline": [
+        "Hook & why this matters",
+        "Tiny demo or repro",
+        "Production caveats & perf notes",
+        "DX: debugging and failure paths",
+        "Security & auth implications",
+        "SEO/Edge considerations (if web)",
+        "Alternatives & trade-offs",
+        "Takeaways & when NOT to use it"
+      ],
+      "stackHints": [
+        "Next.js API routes",
+        "Server Actions/RSC",
+        "Node fetch + ETag cache",
+        "Python helper for data prep"
+      ],
+      "seedUrl": "https://dev.to/boopykiki/epub-optimizer-1ek3",
+      "score": 38.85,
+      "source": "devto",
+      "publishedAt": "2025-08-09T07:03:22.000Z",
+      "tags": [
+        "programming",
+        "node",
+        "javascript",
+        "typescript",
+        "node",
+        "ai",
+        "perf",
+        "testing",
+        "infra",
+        "realtime",
+        "maps",
+        "tooling"
+      ],
+      "points": {
+        "base": 1,
+        "keywords": {
+          "score": 11,
+          "hits": [
+            [
+              "node",
+              4
+            ],
+            [
+              "node.js",
+              4
+            ],
+            [
+              "ai",
+              3
+            ]
+          ]
+        },
+        "tags": {
+          "score": 25,
+          "hits": [
+            [
+              "node",
+              4
+            ],
+            [
+              "node",
+              4
+            ],
+            [
+              "ai",
+              3
+            ],
+            [
+              "perf",
+              3
+            ],
+            [
+              "testing",
+              2
+            ],
+            [
+              "infra",
+              2
+            ],
+            [
+              "realtime",
+              2
+            ],
+            [
+              "maps",
+              2
+            ],
+            [
+              "tooling",
+              3
+            ]
+          ]
+        },
+        "engagement": {
+          "score": 0,
+          "raw": 0
+        },
+        "sourceWeight": 1,
+        "recencyMultiplier": 1.05
+      }
+    },
+    {
+      "id": "b8a75669f57b5f0fb0b567e057a915e354858aac-2",
+      "headline": "Recreate EPUB Optimizer step-by-step (Node.js + Next.js + Python helper)",
+      "angle": "Inspired by: EPUB Optimizer",
+      "outline": [
+        "Hook & why this matters",
+        "Tiny demo or repro",
+        "Production caveats & perf notes",
+        "DX: debugging and failure paths",
+        "Security & auth implications",
+        "SEO/Edge considerations (if web)",
+        "Alternatives & trade-offs",
+        "Takeaways & when NOT to use it"
+      ],
+      "stackHints": [
+        "Next.js API routes",
+        "Server Actions/RSC",
+        "Node fetch + ETag cache",
+        "Python helper for data prep"
+      ],
+      "seedUrl": "https://dev.to/boopykiki/epub-optimizer-1ek3",
+      "score": 38.85,
+      "source": "devto",
+      "publishedAt": "2025-08-09T07:03:22.000Z",
+      "tags": [
+        "programming",
+        "node",
+        "javascript",
+        "typescript",
+        "node",
+        "ai",
+        "perf",
+        "testing",
+        "infra",
+        "realtime",
+        "maps",
+        "tooling"
+      ],
+      "points": {
+        "base": 1,
+        "keywords": {
+          "score": 11,
+          "hits": [
+            [
+              "node",
+              4
+            ],
+            [
+              "node.js",
+              4
+            ],
+            [
+              "ai",
+              3
+            ]
+          ]
+        },
+        "tags": {
+          "score": 25,
+          "hits": [
+            [
+              "node",
+              4
+            ],
+            [
+              "node",
+              4
+            ],
+            [
+              "ai",
+              3
+            ],
+            [
+              "perf",
+              3
+            ],
+            [
+              "testing",
+              2
+            ],
+            [
+              "infra",
+              2
+            ],
+            [
+              "realtime",
+              2
+            ],
+            [
+              "maps",
+              2
+            ],
+            [
+              "tooling",
+              3
+            ]
+          ]
+        },
+        "engagement": {
+          "score": 0,
+          "raw": 0
+        },
+        "sourceWeight": 1,
+        "recencyMultiplier": 1.05
+      }
+    },
+    {
+      "id": "ecd4c91449d21ecb4db20c0c4cdee9e4af2d0b10-0",
+      "headline": "Implement Google sign-in with Next.js with a production-grade Next.js/Node stack",
+      "angle": "Inspired by: Google sign-in with Next.js",
+      "outline": [
+        "Hook & why this matters",
+        "Tiny demo or repro",
+        "Production caveats & perf notes",
+        "DX: debugging and failure paths",
+        "Security & auth implications",
+        "SEO/Edge considerations (if web)",
+        "Alternatives & trade-offs",
+        "Takeaways & when NOT to use it"
+      ],
+      "stackHints": [
+        "Next.js API routes",
+        "Server Actions/RSC",
+        "Node fetch + ETag cache",
+        "Python helper for data prep"
+      ],
+      "seedUrl": "https://dev.to/justincalleja/google-sign-in-with-nextjs-4lnn",
+      "score": 37.800000000000004,
+      "source": "devto",
+      "publishedAt": "2025-08-09T19:13:22.000Z",
+      "tags": [
+        "nextjs",
+        "oauth2",
+        "nextjs",
+        "react",
+        "node",
+        "db",
+        "auth",
+        "ai",
+        "infra",
+        "realtime"
+      ],
+      "points": {
+        "base": 1,
+        "keywords": {
+          "score": 5,
+          "hits": [
+            [
+              "next.js",
+              5
+            ]
+          ]
+        },
+        "tags": {
+          "score": 30,
+          "hits": [
+            [
+              "nextjs",
+              5
+            ],
+            [
+              "nextjs",
+              5
+            ],
+            [
+              "react",
+              4
+            ],
+            [
+              "node",
+              4
+            ],
+            [
+              "db",
+              3
+            ],
+            [
+              "auth",
+              2
+            ],
+            [
+              "ai",
+              3
+            ],
+            [
+              "infra",
+              2
+            ],
+            [
+              "realtime",
+              2
+            ]
+          ]
+        },
+        "engagement": {
+          "score": 0,
+          "raw": 0
+        },
+        "sourceWeight": 1,
+        "recencyMultiplier": 1.05
+      }
+    },
+    {
+      "id": "ecd4c91449d21ecb4db20c0c4cdee9e4af2d0b10-1",
+      "headline": "Does Google sign-in with Next.js really improve developer experience? A measured take",
+      "angle": "Inspired by: Google sign-in with Next.js",
+      "outline": [
+        "Hook & why this matters",
+        "Tiny demo or repro",
+        "Production caveats & perf notes",
+        "DX: debugging and failure paths",
+        "Security & auth implications",
+        "SEO/Edge considerations (if web)",
+        "Alternatives & trade-offs",
+        "Takeaways & when NOT to use it"
+      ],
+      "stackHints": [
+        "Next.js API routes",
+        "Server Actions/RSC",
+        "Node fetch + ETag cache",
+        "Python helper for data prep"
+      ],
+      "seedUrl": "https://dev.to/justincalleja/google-sign-in-with-nextjs-4lnn",
+      "score": 37.800000000000004,
+      "source": "devto",
+      "publishedAt": "2025-08-09T19:13:22.000Z",
+      "tags": [
+        "nextjs",
+        "oauth2",
+        "nextjs",
+        "react",
+        "node",
+        "db",
+        "auth",
+        "ai",
+        "infra",
+        "realtime"
+      ],
+      "points": {
+        "base": 1,
+        "keywords": {
+          "score": 5,
+          "hits": [
+            [
+              "next.js",
+              5
+            ]
+          ]
+        },
+        "tags": {
+          "score": 30,
+          "hits": [
+            [
+              "nextjs",
+              5
+            ],
+            [
+              "nextjs",
+              5
+            ],
+            [
+              "react",
+              4
+            ],
+            [
+              "node",
+              4
+            ],
+            [
+              "db",
+              3
+            ],
+            [
+              "auth",
+              2
+            ],
+            [
+              "ai",
+              3
+            ],
+            [
+              "infra",
+              2
+            ],
+            [
+              "realtime",
+              2
+            ]
+          ]
+        },
+        "engagement": {
+          "score": 0,
+          "raw": 0
+        },
+        "sourceWeight": 1,
+        "recencyMultiplier": 1.05
+      }
+    },
+    {
+      "id": "ecd4c91449d21ecb4db20c0c4cdee9e4af2d0b10-2",
+      "headline": "Recreate Google sign-in with Next.js step-by-step (Node.js + Next.js + Python helper)",
+      "angle": "Inspired by: Google sign-in with Next.js",
+      "outline": [
+        "Hook & why this matters",
+        "Tiny demo or repro",
+        "Production caveats & perf notes",
+        "DX: debugging and failure paths",
+        "Security & auth implications",
+        "SEO/Edge considerations (if web)",
+        "Alternatives & trade-offs",
+        "Takeaways & when NOT to use it"
+      ],
+      "stackHints": [
+        "Next.js API routes",
+        "Server Actions/RSC",
+        "Node fetch + ETag cache",
+        "Python helper for data prep"
+      ],
+      "seedUrl": "https://dev.to/justincalleja/google-sign-in-with-nextjs-4lnn",
+      "score": 37.800000000000004,
+      "source": "devto",
+      "publishedAt": "2025-08-09T19:13:22.000Z",
+      "tags": [
+        "nextjs",
+        "oauth2",
+        "nextjs",
+        "react",
+        "node",
+        "db",
+        "auth",
+        "ai",
+        "infra",
+        "realtime"
+      ],
+      "points": {
+        "base": 1,
+        "keywords": {
+          "score": 5,
+          "hits": [
+            [
+              "next.js",
+              5
+            ]
+          ]
+        },
+        "tags": {
+          "score": 30,
+          "hits": [
+            [
+              "nextjs",
+              5
+            ],
+            [
+              "nextjs",
+              5
+            ],
+            [
+              "react",
+              4
+            ],
+            [
+              "node",
+              4
+            ],
+            [
+              "db",
+              3
+            ],
+            [
+              "auth",
+              2
+            ],
+            [
+              "ai",
+              3
+            ],
+            [
+              "infra",
+              2
+            ],
+            [
+              "realtime",
+              2
+            ]
+          ]
+        },
+        "engagement": {
+          "score": 0,
+          "raw": 0
+        },
+        "sourceWeight": 1,
+        "recencyMultiplier": 1.05
+      }
+    },
+    {
+      "id": "7ba9642dcd55819f5ba1fa3bfecceeb2618ca3c0-0",
+      "headline": "Implement NextAuth.js v5 Guide: Migrating from v4 with Real Examples with a production-grade Next.js/Node stack",
+      "angle": "Inspired by: NextAuth.js v5 Guide: Migrating from v4 with Real Examples",
+      "outline": [
+        "Hook & why this matters",
+        "Tiny demo or repro",
+        "Production caveats & perf notes",
+        "DX: debugging and failure paths",
+        "Security & auth implications",
+        "SEO/Edge considerations (if web)",
+        "Alternatives & trade-offs",
+        "Takeaways & when NOT to use it"
+      ],
+      "stackHints": [
+        "Next.js API routes",
+        "Server Actions/RSC",
+        "Node fetch + ETag cache",
+        "Python helper for data prep"
+      ],
+      "seedUrl": "https://dev.to/acetoolz/nextauthjs-v5-guide-migrating-from-v4-with-real-examples-50ad",
+      "score": 37.800000000000004,
+      "source": "devto",
+      "publishedAt": "2025-08-09T12:03:06.000Z",
+      "tags": [
+        "nextjs",
+        "react",
+        "javascript",
+        "nextauth",
+        "nextjs",
+        "react",
+        "node",
+        "db",
+        "auth",
+        "ai",
+        "perf",
+        "testing"
+      ],
+      "points": {
+        "base": 1,
+        "keywords": {
+          "score": 0,
+          "hits": []
+        },
+        "tags": {
+          "score": 35,
+          "hits": [
+            [
+              "nextjs",
+              5
+            ],
+            [
+              "react",
+              4
+            ],
+            [
+              "nextjs",
+              5
+            ],
+            [
+              "react",
+              4
+            ],
+            [
+              "node",
+              4
+            ],
+            [
+              "db",
+              3
+            ],
+            [
+              "auth",
+              2
+            ],
+            [
+              "ai",
+              3
+            ],
+            [
+              "perf",
+              3
+            ],
+            [
+              "testing",
+              2
+            ]
+          ]
+        },
+        "engagement": {
+          "score": 0,
+          "raw": 0
+        },
+        "sourceWeight": 1,
+        "recencyMultiplier": 1.05
+      }
+    },
+    {
+      "id": "7ba9642dcd55819f5ba1fa3bfecceeb2618ca3c0-1",
+      "headline": "Does NextAuth.js v5 Guide: Migrating from v4 with Real Examples really improve developer experience? A measured take",
+      "angle": "Inspired by: NextAuth.js v5 Guide: Migrating from v4 with Real Examples",
+      "outline": [
+        "Hook & why this matters",
+        "Tiny demo or repro",
+        "Production caveats & perf notes",
+        "DX: debugging and failure paths",
+        "Security & auth implications",
+        "SEO/Edge considerations (if web)",
+        "Alternatives & trade-offs",
+        "Takeaways & when NOT to use it"
+      ],
+      "stackHints": [
+        "Next.js API routes",
+        "Server Actions/RSC",
+        "Node fetch + ETag cache",
+        "Python helper for data prep"
+      ],
+      "seedUrl": "https://dev.to/acetoolz/nextauthjs-v5-guide-migrating-from-v4-with-real-examples-50ad",
+      "score": 37.800000000000004,
+      "source": "devto",
+      "publishedAt": "2025-08-09T12:03:06.000Z",
+      "tags": [
+        "nextjs",
+        "react",
+        "javascript",
+        "nextauth",
+        "nextjs",
+        "react",
+        "node",
+        "db",
+        "auth",
+        "ai",
+        "perf",
+        "testing"
+      ],
+      "points": {
+        "base": 1,
+        "keywords": {
+          "score": 0,
+          "hits": []
+        },
+        "tags": {
+          "score": 35,
+          "hits": [
+            [
+              "nextjs",
+              5
+            ],
+            [
+              "react",
+              4
+            ],
+            [
+              "nextjs",
+              5
+            ],
+            [
+              "react",
+              4
+            ],
+            [
+              "node",
+              4
+            ],
+            [
+              "db",
+              3
+            ],
+            [
+              "auth",
+              2
+            ],
+            [
+              "ai",
+              3
+            ],
+            [
+              "perf",
+              3
+            ],
+            [
+              "testing",
+              2
+            ]
+          ]
+        },
+        "engagement": {
+          "score": 0,
+          "raw": 0
+        },
+        "sourceWeight": 1,
+        "recencyMultiplier": 1.05
+      }
+    },
+    {
+      "id": "7ba9642dcd55819f5ba1fa3bfecceeb2618ca3c0-2",
+      "headline": "Recreate NextAuth.js v5 Guide: Migrating from v4 with Real Examples step-by-step (Node.js + Next.js + Python helper)",
+      "angle": "Inspired by: NextAuth.js v5 Guide: Migrating from v4 with Real Examples",
+      "outline": [
+        "Hook & why this matters",
+        "Tiny demo or repro",
+        "Production caveats & perf notes",
+        "DX: debugging and failure paths",
+        "Security & auth implications",
+        "SEO/Edge considerations (if web)",
+        "Alternatives & trade-offs",
+        "Takeaways & when NOT to use it"
+      ],
+      "stackHints": [
+        "Next.js API routes",
+        "Server Actions/RSC",
+        "Node fetch + ETag cache",
+        "Python helper for data prep"
+      ],
+      "seedUrl": "https://dev.to/acetoolz/nextauthjs-v5-guide-migrating-from-v4-with-real-examples-50ad",
+      "score": 37.800000000000004,
+      "source": "devto",
+      "publishedAt": "2025-08-09T12:03:06.000Z",
+      "tags": [
+        "nextjs",
+        "react",
+        "javascript",
+        "nextauth",
+        "nextjs",
+        "react",
+        "node",
+        "db",
+        "auth",
+        "ai",
+        "perf",
+        "testing"
+      ],
+      "points": {
+        "base": 1,
+        "keywords": {
+          "score": 0,
+          "hits": []
+        },
+        "tags": {
+          "score": 35,
+          "hits": [
+            [
+              "nextjs",
+              5
+            ],
+            [
+              "react",
+              4
+            ],
+            [
+              "nextjs",
+              5
+            ],
+            [
+              "react",
+              4
+            ],
+            [
+              "node",
+              4
+            ],
+            [
+              "db",
+              3
+            ],
+            [
+              "auth",
+              2
+            ],
+            [
+              "ai",
+              3
+            ],
+            [
+              "perf",
+              3
+            ],
+            [
+              "testing",
+              2
+            ]
+          ]
+        },
+        "engagement": {
+          "score": 0,
+          "raw": 0
+        },
+        "sourceWeight": 1,
+        "recencyMultiplier": 1.05
+      }
+    }
+  ],
+  "stats": {
+    "inputs": 164,
+    "outputs": 30,
+    "sources": {
+      "devto": 22,
+      "medium": 3
+    }
+  }
+}
