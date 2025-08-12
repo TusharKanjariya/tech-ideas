@@ -1,8 +1,7 @@
 // scripts/index.js
 import 'dotenv/config';
-import { buildDigest } from './build-digest.js';
-import { saveDigest, saveDigestMongo } from './save-mongo.js';
-import { closeMongo } from '../lib/mongo.js';
+import { closeMongo } from '@/lib/mongo.js';
+import { saveDigest, saveDigestMongo } from './save-mongo';
 
 try {
     const d = await buildDigest();

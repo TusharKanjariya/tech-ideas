@@ -1,6 +1,6 @@
+import { computeTagMomentum } from '@/lib/momentum';
+import { getDb } from '@/lib/mongo';
 import { NextResponse } from 'next/server';
-import { getDb } from '../../../../lib/mongo.js';
-import { computeTagMomentum } from '../../../../lib/momentum.js';
 
 export async function GET(req) {
     const url = new URL(req.url);

@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server';
-import { getDb } from '../../../../lib/mongo.js';
-import { generateHeadlines } from '../../../../lib/headlines.js';
+import { getDb } from '@/lib/mongo';
+import { generateHeadlines } from '@/lib/headlines';
 
 export async function GET(req) {
     const url = new URL(req.url);

@@ -1,5 +1,5 @@
+import { getDb } from '@/lib/mongo';
 import { NextResponse } from 'next/server';
-import { getDb } from '../../../../../lib/mongo.js';
 
 export async function GET(req, { params }) {
     const db = await getDb();

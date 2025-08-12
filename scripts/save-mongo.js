@@ -1,7 +1,7 @@
 // scripts/save-mongo.js
+import { getDb } from '@/lib/mongo';
 import fs from 'fs/promises';
 import path from 'path';
-import { getDb } from '../lib/mongo.js';
 
 // remove undefined/NaN/Infinity recursively
 function clean(value) {

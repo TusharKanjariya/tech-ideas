@@ -1,7 +1,7 @@
 import { NextResponse } from 'next/server';
-import { getDb } from '../../../../lib/mongo.js';
-import { computeTagMomentum } from '../../../../lib/momentum.js';
-import { TAG_ALIAS, BROAD_FALLBACK } from '../../../../config/medium-tags.js';
+import { getDb } from '@/lib/mongo.js';
+import { BROAD_FALLBACK, TAG_ALIAS } from '@/config/medium-tags.js';
+import { computeTagMomentum } from '@/lib/momentum';
 
 // Helper to normalize & map internal → Medium-friendly
 function mapTag(t) {
