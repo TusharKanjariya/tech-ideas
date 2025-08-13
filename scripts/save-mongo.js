@@ -1,5 +1,5 @@
 // scripts/save-mongo.js
-import { getDb } from '@/lib/mongo';
+import { getDb } from '../lib/mongo.js';
 import fs from 'fs/promises';
 import path from 'path';
 

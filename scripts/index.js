@@ -1,11 +1,11 @@
 // scripts/index.js
 import 'dotenv/config';
-import { closeMongo } from '@/lib/mongo.js';
-import { saveDigest, saveDigestMongo } from './save-mongo';
+import { saveDigestMongo } from './save-mongo.js';
+import { closeMongo } from '../lib/mongo.js';
+import { buildDigest } from './build-digest.js';
 
 try {
     const d = await buildDigest();
-    await saveDigest(d);
     if (process.env.MONGODB_URI) {
         await saveDigestMongo(d);
         console.log('Saved to MongoDB');

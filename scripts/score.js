@@ -1,4 +1,4 @@
-import { TAG_WEIGHTS } from '@/config/topics.js';
+import { TAG_WEIGHTS } from '../config/topics.js';
 import { KEYWORD_WEIGHTS, SOURCE_WEIGHTS } from '../config/keywords.js';
 
 
